@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucaspmv/dt-money?color=835AFD">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lucaspmv/dt-money?color=33CC95">
 
   <a href="https://github.com/lucaspmv/dt-money/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucaspmv/dt-money?color=835AFD">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lucaspmv/dt-money?color=33CC95">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/lucaspmv/dt-money?color=835AFD">
+  <img alt="GitHub" src="https://img.shields.io/github/license/lucaspmv/dt-money?color=33CC95">
 </p>
 
 ## Sobre
